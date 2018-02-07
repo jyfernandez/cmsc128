@@ -1,4 +1,6 @@
 Name: 				Jomarey Fernandez
 Student Number: 	2015-00750
 Name: 				Loria Roie Grace Malingan
-Student Number:		2015-13311
+Student Number:		2015-1331
+Name:				Rendel Cuanico
+Student Number:		2014-12345
