@@ -1,2 +1,5 @@
 Name: 				Jomarey Fernandez
 Student Number: 	2015-00750
+
+Name:				Rendel Cuanico
+Student Number:		2014-12345
